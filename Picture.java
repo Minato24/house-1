@@ -42,7 +42,7 @@ public class Picture
             wall.makeVisible();
             
             window.changeColor("black");
-            window.moveHorizontal(-120);
+            window.moveHorizontal(-119);
             window.moveVertical(40);
             window.changeSize(40);
             window.makeVisible();
